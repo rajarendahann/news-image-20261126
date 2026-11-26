@@ -383,14 +383,14 @@ def main():
             canvas.set_pixel(dot_x, dot_y, (200, 190, 175))
 
     cities = [
-        ("Washington", 40, 95),
+        ("Washington", 60, 95),
         ("Norfolk", 115, 75),
         ("Moscow", 185, 55),
         ("Riyadh", 170, 120),
         ("Sanaa", 190, 155),
         ("Ras Al Khaimah", 220, 135),
         ("Jakarta", 265, 185),
-        ("Phnom Penh", 255, 150),
+        ("Phnom Penh", 255, 175),
         ("Taipei", 280, 125),
         ("Seoul", 285, 90),
     ]
